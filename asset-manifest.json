@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mystopclock/static/css/main.62df45d8.css",
+    "main.js": "/mystopclock/static/js/main.d1c1fef0.js",
+    "static/js/787.43d6c272.chunk.js": "/mystopclock/static/js/787.43d6c272.chunk.js",
+    "index.html": "/mystopclock/index.html",
+    "main.62df45d8.css.map": "/mystopclock/static/css/main.62df45d8.css.map",
+    "main.d1c1fef0.js.map": "/mystopclock/static/js/main.d1c1fef0.js.map",
+    "787.43d6c272.chunk.js.map": "/mystopclock/static/js/787.43d6c272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62df45d8.css",
+    "static/js/main.d1c1fef0.js"
+  ]
+}
